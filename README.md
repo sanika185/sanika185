@@ -248,29 +248,6 @@ Contributed to organizing and coordinating technical events and activities withi
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanika185&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanika185&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanika185&theme=default&hide_border=true" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanika185&theme=minimal&hide_border=true" width="95%"/>
-</p>
-
 
 # 🎯 What I'm Looking For
 
